@@ -1,2 +1,2 @@
 # Opcode
-Esoteric language with minimum instruction set
+Opcode is an esoteric language with an instruction set of size 2.
